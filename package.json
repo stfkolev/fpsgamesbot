@@ -1,0 +1,19 @@
+{
+  "name": "fpsbot",
+  "version": "1.0.0",
+  "description": "fps-games discord bot",
+  "main": "fpsbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evil (Stf Kolev)",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "discord.js": "^11.4.2",
+    "eslint": "^5.12.0",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0"
+  }
+}
